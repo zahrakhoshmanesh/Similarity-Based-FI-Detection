@@ -1,6 +1,6 @@
 # The Role of Similarity in Detecting Feature Interaction in Software Product Lines
 
-_Abstract_—As a software product line evolves, it typically introduces new features and includes new products over time. A known cause of software aging in product lines is the
+**_Abstract_** —As a software product line evolves, it typically introduces new features and includes new products over time. A known cause of software aging in product lines is the
 introduction of new features that interact in unplanned and even risky ways with the existing features. This can lead to failures,
 performance degradation, and even hazardous states in a new product. Software product line developers currently identify new,
 unwanted feature interactions primarily in the testing of each new product. This incurs significant costs, comes late in development,
@@ -11,16 +11,16 @@ development process. Results from application to a case study from the literatur
 73% of feature interactions. This small study suggests that using similarity measures at the feature level within a product line
 to detect problematic interactions involving a new feature can effectively reduce this cause of aging in a software product line.
 
-Index Terms—feature interaction, software aging, similarity metrics, software product lines,
+**Index Terms**—feature interaction, software aging, similarity metrics, software product lines,
 
 
 you can find all the material needed to reproduce the result of our paper as follows.
 
 
-1- We used Software Product Line benchmarks created by Sven Apel and his team in University of Passau from [Here](http://fosd.net/FAV)
+ - We used Software Product Line benchmarks created by Sven Apel and his team in University of Passau from [Here.](http://fosd.net/FAV)
 
-1- We wrote Java code to calculate the Jaccard and Hamming similarities  between all features in the software product line study.
+ - We wrote Java code to calculate the Jaccard and Hamming similarities  between all features in the software product line study. The code is accessible from this repository.
 
-2- The Excel file shows the scores.
+ - The Excel file shows the scores.
 
-3- PDF file explained the process and results.
+ - PDF file explained the process and results.
