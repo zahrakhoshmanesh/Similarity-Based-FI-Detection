@@ -1,6 +1,6 @@
 # The Role of Similarity in Detecting Feature Interaction in Software Product Lines
 
-Abstract—As a software product line evolves, it typically introduces new features and includes new products over time. A known cause of software aging in product lines is the
+_Abstract_—As a software product line evolves, it typically introduces new features and includes new products over time. A known cause of software aging in product lines is the
 introduction of new features that interact in unplanned and even risky ways with the existing features. This can lead to failures,
 performance degradation, and even hazardous states in a new product. Software product line developers currently identify new,
 unwanted feature interactions primarily in the testing of each new product. This incurs significant costs, comes late in development,
