@@ -24,3 +24,4 @@ you can find all the material needed to reproduce the result of our paper as fol
  - The Excel file shows the scores.
 
  - PDF file explained the process and results.
+ - This work presented and published in **WoSAR 2019 workshop in ISSRE 2018** conference. you can find the presentation slides under the name " Zahra_Khoshmanesh_WoSAR.pdf" in the repository.
